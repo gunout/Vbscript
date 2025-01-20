@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+	<title>VBscript</title>
+	<meta charset= "utf-8">
+		<link rel='stylesheet' href='https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
+		<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.7/mediaelementplayer.min.css'><link rel="stylesheet" href="./style.css">
+   			<script type="text/javascript" src="https://flashphoner.com/downloads/builds/flashphoner_client/wcs_api-2.0/current/flashphoner.js"></script>
+   			<script type="text/javascript" src="screen-sharing-min.js"></script>
+	</head>
+	
+	<button onclick="self.location.href='https://gunout.github.io/Screencast';">S C R E E N C A S T</button>
+
+    <div class="contain">
+        <div class="container">
+            <div class="music-player">
+                <div class="cover">
+                    <img src="https://github.com/gunout/Gleaphe/blob/main/img/nocover.png?raw=true" alt="">
+</div> 
